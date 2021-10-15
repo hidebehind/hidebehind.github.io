@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "hidebehind"
 title_separator          : "-"
-name                     : &name "cmf"
-description              : &description "occult technography for a new age"
+name                     : &name ""
+description              : &description ""
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hidebehind.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "cryptographic novitiate"
+  name             : "occult technography for a new age"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "tacoma, wa, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  holarchyclub     : "https://www.holarchy.club/home"
+  psiwaveclub      : "psiwave.club"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
